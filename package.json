@@ -1,0 +1,12 @@
+{
+  "name": "ngcordova-typescript-definitions",
+  "version": "0.1.0",
+  "repository": "https://github.com/mvidailhet/ngcordova-typescript-definitions.git",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-ts": "^3.0.0",
+    "grunt-tslint": "^2.0.0",
+    "tslint": "^2.1.1"
+  }
+}
